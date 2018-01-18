@@ -1,4 +1,4 @@
-<?php // $Id$
+<?php // $Id: index.php 4791 2007-02-26 21:04:48Z merlinyoda $
 /*
 All files in this work, except the modules/ticketsmith directory, are now
 covered by the following copyright notice.  The ticketsmith module is

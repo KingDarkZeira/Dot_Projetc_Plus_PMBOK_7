@@ -1,4 +1,4 @@
-<?php /* $Id$ */ ?>
+<?php /* $Id: check.php 4791 2007-02-26 21:04:48Z merlinyoda $ */ ?>
 <html>
 <head>
 	<title>dotProject System Check</title>

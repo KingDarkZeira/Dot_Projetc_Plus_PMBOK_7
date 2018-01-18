@@ -1,4 +1,4 @@
-<?php // $Id$
+<?php // $Id: vw_idx_check.php 6050 2010-10-14 21:43:56Z ajdonnison $
 
 if (!defined('DP_BASE_DIR')) {
 	die('You should not access this file directly.');

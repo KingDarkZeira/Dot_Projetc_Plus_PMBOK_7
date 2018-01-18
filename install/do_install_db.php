@@ -1,4 +1,4 @@
-<?php // $Id$
+<?php // $Id: do_install_db.php 6185 2012-11-15 04:30:47Z ajdonnison $
 //Max Execution Time in Installation No Limit 
 set_time_limit(0);
 

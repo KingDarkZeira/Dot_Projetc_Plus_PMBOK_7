@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: install.inc.php 6185 2012-11-15 04:30:47Z ajdonnison $
 
 if (!defined('DP_BASE_DIR')) {
 	die('You should not access this file directly.');
