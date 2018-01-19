@@ -1,3 +1,4 @@
+"LBL_GIT" => "GIT",
 "LBL_ADD"=>"Adicionar",
 "LBL_EXCLUSION"=>"Excluir",
 "LBL_ID"=>"ID",
