@@ -1,4 +1,4 @@
-<?php // $Id: db.php 6050 2010-10-14 21:43:56Z ajdonnison $
+<?php // $Id$
 include_once 'check_upgrade.php';
 ?>
 <html>
