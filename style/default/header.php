@@ -53,32 +53,51 @@ else
                                                 </u>
 
                                                 <ul>
-                                                    <li>
+                                                        <li>
 
-                                                        <a href="./index.php?m=admin&amp;a=viewuser&amp;user_id=<?php echo $AppUI->user_id; ?>">
-                                                            <img src="./style/<?php echo $uistyle; ?>/images/icon_my_data.png" />&nbsp;
-                                                            Meus dados
-                                                        </a>
-                                                    </li>
+                                            <a href="./index.php?m=admin&amp;a=viewuser&amp;user_id=<?php echo $AppUI->user_id ?>">
+                                                <img src="./style/<?php echo $uistyle; ?>/img/icon_my_data_gray.png" />&nbsp;
+                                                <?php echo $AppUI->_("LBL_MY_DATA")  ?>
+                                            </a>
+                                        </li>
 
-                                                    <?php
-                                                    if (getPermission('calendar', 'access')) {
-                                                        $now = new CDate();
-                                                        ?>                              
-                                                        <li>                               
-                                                            <a href="./index.php?m=calendar&amp;a=day_view&amp;date=<?php echo $now->format(FMT_TIMESTAMP_DATE); ?>">
-                                                                <img src="./style/<?php echo $uistyle; ?>/images/icon_schedule.png" />&nbsp;
-                                                                Agenda
-                                                            </a>
-                                                        </li>
-                                                    <?php } ?>
 
-                                                    <li class='last'>
-                                                        <a href="?logout=-1">
-                                                            <img src="./style/<?php echo $uistyle; ?>/images/icon_logout.png" />&nbsp;                                                        
-                                                            Sair
-                                                        </a>
-                                                    </li>
+                                        <li>                               
+                                            <a href="./index.php?m=calendar&amp;a=day_view&amp;date=<?php echo $date = date('Ymd', time()); ?>">
+                                                <img src="./style/<?php echo $uistyle; ?>/img/icon_schedule_gray.png" />&nbsp;
+                                               <?php echo $AppUI->_("LBL_MY_SCHEDULE")  ?>
+                                            </a>
+                                        </li>
+                                        
+                                        <li>                               
+                                            <a href="mailto:dotprojectplus@gmail.com?Subject=dotProject+:%20Bug%20report" target="_blank">
+                                               <img src="./style/<?php echo $uistyle; ?>/img/bug_gray.png" />&nbsp;
+                                               <?php echo $AppUI->_("LBL_BUG_REPORT")  ?>
+                                            </a>
+                                        </li>
+                                        
+                                        
+                                         <li>                               
+                                            <a href="http://www.gqs.ufsc.br/the-lab/warranty-disclaimer-dotproject/" target="_blank">
+                                               <img src="./style/<?php echo $uistyle; ?>/img/warranty_disclaimer_icon_gray.png" />&nbsp;
+                                               <?php echo $AppUI->_("LBL_WARRANTY_DISCLAIMER")  ?>
+                                            </a>
+                                        </li>
+                                        
+                                        <li>                               
+                                            <a href="http://www.gqs.ufsc.br/evolution-of-dotproject/" target="_blank">
+                                               <img src="./style/<?php echo $uistyle; ?>/img/about_icon_gray.png" />&nbsp;
+                                               <?php echo $AppUI->_("LBL_ABOUT_DPP")  ?>
+                                            </a>
+                                        </li>
+                                        
+                                        
+                                        <li class='last'>
+                                            <a href="?logout=-1">
+                                                <img src="./style/<?php echo $uistyle; ?>/img/icon_logout_gray.png" />&nbsp;
+                                                <?php echo $AppUI->_("LBL_EXIT")  ?>
+                                            </a>
+                                        </li>
                                                 </ul>
                                             </li>
                                         </ul>
