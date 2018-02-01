@@ -12,7 +12,7 @@ dotProject+ aligns dP core with PMBOK and CMMI-DEV guidelines/methodologies for 
 
 ## Goals for this fork
 dotProject+ has made some significant core changes, and module additions to dotProject core codebase.
-De Bortoli Wines in conjunction with Adam Donnison/dotProject developer(s), Rafael Queiroz Goncalves/dotProject+ developer(s), with 2pi Software, are hoping to merge/integrate each standalone dotProject+ module into dotProject core (where appropriate/possible)
+De Bortoli Wines in conjunction with Adam Donnison/dotProject developer(s), Rafael Queiroz Goncalves/dotProject+ developer(s), and 2pi Software, are hoping to merge/integrate each standalone dotProject+ module into dotProject core (where appropriate/possible)
 
 In all cases, the intention is to work with the dotProject developers to make the fixes/features palatable for acceptance into the core project.
 
