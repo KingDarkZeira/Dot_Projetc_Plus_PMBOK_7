@@ -22,10 +22,8 @@ In all cases, the intention is to work with the dotProject developers to make th
 
 ## Repository Outline
 Branches: 
-* master - based on dotProject core, stacked with any *completed* features/fixes split out of the dotProject_plus codebase
-* dotproject_plus - based on the current dotProject+ release, cleaned/sanitised for easier difference comparisons
-* various *incomplete* feature/fix branches split from the original monolithic diff between the two projects
-* *incomplete* php7 migration progress
+* master - essentially a fully functional/clean implementation of dotproject_plus. Forked from dotProject core, merged with all the (sanitised) features from the dotProject_plus codebase release on sourceforge.
+* dotproject_plus - development branch, issues and bug fixes are implemented here
 
 # About dotProject
 
