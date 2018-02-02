@@ -11,21 +11,15 @@ dotProject+ aligns dP core with PMBOK and CMMI-DEV guidelines/methodologies for 
 * [Forum Announcement](http://forums.dotproject.net/showthread.php?p=46899)
 
 ## Goals for this fork
-dotProject+ has made some significant core changes, and module additions to dotProject core.
-De Bortoli Wines in conjunction with 2pi Software, the dotProject core developers (and hopefully others) are hoping to achieve the following:
-* break down core changes into smaller pieces/commits related to specific fixes/features
-* break out the modules into individual modules where possible
-* submit these additions as a series of small pull requests to the core dotProject codebase
-* a parallel investigation into adding support for PHP7 is also taking place
+dotProject+ has made some significant core changes, and module additions to dotProject core codebase.
+De Bortoli Wines in conjunction with Adam Donnison/dotProject developer(s), Rafael Queiroz Goncalves/dotProject+ developer(s), and 2pi Software, are hoping to merge/integrate each standalone dotProject+ module into dotProject core (where appropriate/possible)
 
 In all cases, the intention is to work with the dotProject developers to make the fixes/features palatable for acceptance into the core project.
 
 ## Repository Outline
 Branches: 
-* master - based on dotProject core, stacked with any *completed* features/fixes split out of the dotProject_plus codebase
-* dotproject_plus - based on the current dotProject+ release, cleaned/sanitised for easier difference comparisons
-* various *incomplete* feature/fix branches split from the original monolithic diff between the two projects
-* *incomplete* php7 migration progress
+* master - essentially a fully functional/clean implementation of dotproject_plus. Forked from dotProject core, merged with all the (sanitised) features from the dotProject_plus codebase release on sourceforge.
+* dotproject_plus - development branch, issues and bug fixes are implemented here
 
 # About dotProject
 
