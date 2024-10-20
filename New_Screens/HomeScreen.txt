@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/style.css">
+  </head>
+  <body>
+   
+   <div style="width: 1440px; height: 1024px; position: relative; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+  <div style="width: 1440px; height: 91px; position: relative">
+    <div style="width: 1440px; height: 91px; left: 0px; top: 0px; position: absolute; background: rgba(245.74, 250.75, 0, 0.70)"></div>
+    <div style="left: 38px; top: 24px; position: absolute; color: black; font-size: 36px; font-family: Jura; font-weight: 400; word-wrap: break-word">DotProject+</div>
+    <div style="width: 226px; height: 60px; left: 1129px; top: 15px; position: absolute">
+      <div style="width: 60px; height: 60px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 26px; height: 41px; left: 19px; top: 5px; position: absolute; color: black; font-size: 36px; font-family: Jura; font-weight: 400; word-wrap: break-word">J</div>
+      <div style="left: 71px; top: 16px; position: absolute; color: black; font-size: 24px; font-family: Jura; font-weight: 400; word-wrap: break-word">José Augusto</div>
+    </div>
+  </div>
+  <div style="width: 1440px; height: 933px; position: relative">
+    <div style="width: 1440px; height: 933px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.14)"></div>
+    <div style="width: 1335px; height: 719px; left: 53px; top: 185px; position: absolute">
+      <div style="width: 1335px; height: 719px; left: 0px; top: 0px; position: absolute; background: #FFFDFD; border-top-left-radius: 45px; border-top-right-radius: 45px; border: 1px black solid"></div>
+      <img style="width: 26px; height: 25.03px; left: 7px; top: 30.80px; position: absolute; border-top-left-radius: 45px; border-top-right-radius: 45px" src="https://via.placeholder.com/26x25" />
+      <div style="width: 1335px; height: 0px; left: 0px; top: 102.99px; position: absolute; border: 1px black solid"></div>
+      <img style="width: 26px; height: 25.03px; left: 7px; top: 150.15px; position: absolute; border-top-left-radius: 45px; border-top-right-radius: 45px" src="https://via.placeholder.com/26x25" />
+      <div style="width: 1335px; height: 0px; left: 0px; top: 222.34px; position: absolute; border: 1px black solid"></div>
+      <img style="width: 26px; height: 25.03px; left: 7px; top: 269.50px; position: absolute; border-top-left-radius: 45px; border-top-right-radius: 45px" src="https://via.placeholder.com/26x25" />
+      <div style="width: 1335px; height: 0px; left: 0px; top: 341.69px; position: absolute; border: 1px black solid"></div>
+      <img style="width: 26px; height: 25.03px; left: 7px; top: 388.86px; position: absolute; border-top-left-radius: 45px; border-top-right-radius: 45px" src="https://via.placeholder.com/26x25" />
+      <div style="width: 1335px; height: 0px; left: 0px; top: 461.05px; position: absolute; border: 1px black solid"></div>
+      <div style="width: 1335px; height: 0px; left: 0px; top: 580.40px; position: absolute; border: 1px black solid"></div>
+      <div style="width: 84px; height: 46.20px; left: 94px; top: 25.03px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">
+      Chair of
+      <br/>Desk</div>
+      <div style="width: 129px; height: 23.10px; left: 471px; top: 33.46px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">José Augusto</div>
+      <div style="width: 20px; height: 23.10px; left: 728px; top: 32.84px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">15</div>
+      <div style="width: 119px; height: 23.10px; left: 678px; top: 146.98px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">50 Semanas</div>
+      <div style="width: 79px; height: 23.10px; left: 930px; top: 146.75px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">R$ 24,90</div>
+      <div style="width: 93px; height: 23.10px; left: 921px; top: 394.20px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">R$ 450,00</div>
+      <div style="width: 89px; height: 23.10px; left: 921px; top: 275.78px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">R$ 120,00</div>
+      <div style="width: 83px; height: 23.10px; left: 925px; top: 34.20px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">R$ 80,00</div>
+      <div style="width: 101px; height: 23.10px; left: 1170px; top: 34.26px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">R$ 1200,00</div>
+      <div style="width: 99px; height: 23.10px; left: 1170px; top: 143.99px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">R$ 1245,00</div>
+      <div style="width: 101px; height: 23.10px; left: 1170px; top: 272px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">R$ 1200,00</div>
+      <div style="width: 105px; height: 23.10px; left: 1170px; top: 391.36px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">R$ 2250,00</div>
+      <div style="width: 20px; height: 23.10px; left: 728px; top: 275.39px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">10</div>
+      <div style="width: 12px; height: 23.10px; left: 728px; top: 394.75px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">5</div>
+      <div style="width: 129px; height: 23.10px; left: 471px; top: 145.11px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">José Augusto</div>
+      <div style="width: 129px; height: 23.10px; left: 468px; top: 276.98px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">José Augusto</div>
+      <div style="width: 126px; height: 23.10px; left: 471px; top: 390.56px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">Carlos Junior</div>
+      <div style="width: 51px; height: 23.10px; left: 305px; top: 394.63px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">Team</div>
+      <div style="width: 88px; height: 23.10px; left: 290px; top: 143.41px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">Planning
+      </div>
+      <div style="width: 88px; height: 23.10px; left: 291px; top: 271.43px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">Planning
+      </div>
+      <div style="width: 88px; height: 23.10px; left: 290px; top: 36.58px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">Planning
+      </div>
+      <div style="width: 156px; height: 23.10px; left: 67px; top: 150.15px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">Website Domain
+      </div>
+      <div style="width: 98px; height: 46.20px; left: 87px; top: 263.73px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">Tables for
+      <br/>Desk</div>
+      <div style="width: 151px; height: 23.10px; left: 61px; top: 386.93px; position: absolute; color: black; font-size: 20px; font-family: Jura; font-weight: 400; word-wrap: break-word">coffee machine
+      </div>
+    </div>
+    <div style="width: 1335px; height: 64px; left: 53px; top: 121px; position: absolute">
+      <div style="width: 1335px; height: 64px; left: 0px; top: 0px; position: absolute; background: rgba(245.74, 250.75, 0, 0.70); border: 1px black solid"></div>
+      <div style="left: 90px; top: 22px; position: absolute; color: black; font-size: 18px; font-family: Jura; font-weight: 400; word-wrap: break-word">DESCRIPTION</div>
+      <div style="left: 301px; top: 22px; position: absolute; color: black; font-size: 18px; font-family: Jura; font-weight: 400; word-wrap: break-word">DOMAIN</div>
+      <div style="left: 468px; top: 22px; position: absolute; color: black; font-size: 18px; font-family: Jura; font-weight: 400; word-wrap: break-word">RESPONSIBLE</div>
+      <div style="left: 661px; top: 22px; position: absolute; color: black; font-size: 18px; font-family: Jura; font-weight: 400; word-wrap: break-word">AMOUNT
+       / TIME</div>
+      <div style="left: 913px; top: 22px; position: absolute; color: black; font-size: 18px; font-family: Jura; font-weight: 400; word-wrap: break-word">UNIT COST (R$)
+      </div>
+      <div style="left: 1146px; top: 18px; position: absolute; color: black; font-size: 18px; font-family: Jura; font-weight: 400; word-wrap: break-word">TOTAL COST (R$)
+      </div>
+    </div>
+    <div style="width: 1335px; height: 64px; left: 53px; top: 57px; position: absolute">
+      <div style="width: 1335px; height: 64px; left: 0px; top: 0px; position: absolute; background: rgba(245.74, 250.75, 0, 0.70); border-top-left-radius: 45px; border-top-right-radius: 45px; border: 1px black solid"></div>
+      <div style="left: 549px; top: 18px; position: absolute; color: black; font-size: 24px; font-family: Jura; font-weight: 400; word-wrap: break-word">Cost Estimation</div>
+    </div>
+    <div style="width: 263px; height: 39.53px; left: 1125px; top: 9px; position: absolute">
+      <div style="width: 263px; height: 39.53px; left: 0px; top: 0px; position: absolute; background: rgba(245.74, 250.75, 0, 0.70); border-radius: 30px; border: 1px black solid"></div>
+      <div style="width: 229.90px; height: 28.23px; left: 16.16px; top: 5.65px; position: absolute; text-align: center; color: black; font-size: 18px; font-family: Jura; font-weight: 400; word-wrap: break-word">Include Cost</div>
+    </div>
+    <div style="width: 263px; height: 39.53px; left: 835px; top: 9px; position: absolute">
+      <div style="width: 263px; height: 39.53px; left: 0px; top: 0px; position: absolute; background: rgba(245.74, 250.75, 0, 0.70); border-radius: 30px; border: 1px black solid"></div>
+      <div style="width: 229.90px; height: 28.23px; left: 16.16px; top: 5.65px; position: absolute; text-align: center; color: black; font-size: 18px; font-family: Jura; font-weight: 400; word-wrap: break-word">DashBord</div>
+    </div>
+  </div>
+  <div style="width: 719px; height: 0px; transform: rotate(90.08deg); transform-origin: 0 0; border: 1px black solid"></div>
+  <div style="width: 719px; height: 0px; transform: rotate(90deg); transform-origin: 0 0; border: 1px black solid"></div>
+  <div style="width: 719px; height: 0px; transform: rotate(90deg); transform-origin: 0 0; border: 1px black solid"></div>
+  <div style="width: 719px; height: 0px; transform: rotate(90deg); transform-origin: 0 0; border: 1px black solid"></div>
+  <div style="width: 719px; height: 0px; transform: rotate(90deg); transform-origin: 0 0; border: 1px black solid"></div>
+  <div style="width: 719px; height: 0px; transform: rotate(90deg); transform-origin: 0 0; border: 1px black solid"></div>
+</div>
+
+  </body>
+</html>

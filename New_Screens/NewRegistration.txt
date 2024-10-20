@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/style.css">
+  </head>
+  <body>
+   <div style="width: 1280px; height: 832px; position: relative; background: rgba(255, 255, 255, 0.77)">
+  <div style="width: 1280px; height: 91px; left: 0px; top: 0px; position: absolute">
+    <div style="width: 1280px; height: 91px; left: 0px; top: 0px; position: absolute; background: rgba(245.74, 250.75, 0, 0.70)"></div>
+    <div style="width: 205px; left: 34px; top: 24px; position: absolute; color: black; font-size: 36px; font-family: Jura; font-weight: 400; word-wrap: break-word">DotProject+</div>
+    <div style="width: 232px; height: 60px; left: 997px; top: 15px; position: absolute">
+      <div style="width: 60px; height: 60px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 23.11px; height: 41px; left: 20px; top: 7px; position: absolute; color: black; font-size: 36px; font-family: Jura; font-weight: 400; word-wrap: break-word">J</div>
+      <div style="width: 162px; left: 70px; top: 16px; position: absolute; color: black; font-size: 24px; font-family: Jura; font-weight: 400; word-wrap: break-word">José Augusto</div>
+    </div>
+  </div>
+  <div style="width: 120px; height: 60px; padding-top: 20px; padding-bottom: 21px; padding-left: 40px; padding-right: 40px; left: 783px; top: 699px; position: absolute; background: linear-gradient(180deg, #9E96F2 0%, #EC31F0 100%); box-shadow: 0px 3px 12px rgba(74, 58, 255, 0.18); border-radius: 30px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div style="text-align: center; color: white; font-size: 20px; font-family: Poppins; font-weight: 700; line-height: 20px; word-wrap: break-word">Submit</div>
+  </div>
+  <div style="width: 120px; height: 60px; padding-top: 20px; padding-bottom: 21px; padding-left: 40px; padding-right: 40px; left: 332px; top: 699px; position: absolute; background: linear-gradient(180deg, #9E96F2 0%, #EC31F0 100%); box-shadow: 0px 3px 12px rgba(74, 58, 255, 0.18); border-radius: 30px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div style="text-align: center; color: white; font-size: 20px; font-family: Poppins; font-weight: 700; line-height: 20px; word-wrap: break-word">Back</div>
+  </div>
+  <div style="width: 813px; height: 483px; left: 233px; top: 174px; position: absolute; background: #FAF8F8; box-shadow: 0px 5px 16px rgba(8.24, 15.25, 52.06, 0.06); border-radius: 34px; border: 1px #EFF0F6 solid"></div>
+  <div style="width: 325px; height: 90.10px; left: 289px; top: 523px; position: absolute">
+    <div style="width: 325px; height: 52px; left: 0px; top: 38.10px; position: absolute; background: white; box-shadow: 0px 2px 6px rgba(18.53, 17.57, 65.87, 0.07); border-radius: 46px; border: 1px #EFF0F6 solid"></div>
+    <div style="width: 129.37px; height: 21.77px; left: 24.10px; top: 53.06px; position: absolute; color: #6F6C90; font-size: 20px; font-family: DM Sans; font-weight: 400; line-height: 20px; word-wrap: break-word">Sector here...</div>
+    <div style="width: 63.42px; height: 27.21px; left: 0px; top: 0px; position: absolute; color: #170F49; font-size: 20px; font-family: DM Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">Sector</div>
+  </div>
+  <div style="width: 325px; height: 90.10px; left: 660px; top: 405px; position: absolute">
+    <div style="width: 325px; height: 52px; left: -0px; top: 38.10px; position: absolute; background: white; box-shadow: 0px 2px 6px rgba(18.53, 17.57, 65.87, 0.07); border-radius: 46px; border: 1px #EFF0F6 solid"></div>
+    <div style="width: 204.20px; height: 21.77px; left: 24.10px; top: 53.06px; position: absolute; color: #6F6C90; font-size: 20px; font-family: DM Sans; font-weight: 400; line-height: 20px; word-wrap: break-word">(XX) XX XXXXX-XXXX</div>
+    <div style="width: 142.05px; height: 27.21px; left: 0px; top: 0px; position: absolute; color: #170F49; font-size: 20px; font-family: DM Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">Phone Number</div>
+  </div>
+  <div style="width: 325px; height: 90.10px; left: 289px; top: 405px; position: absolute">
+    <div style="width: 325px; height: 52px; left: 0px; top: 38.10px; position: absolute; background: white; box-shadow: 0px 2px 6px rgba(18.53, 17.57, 65.87, 0.07); border-radius: 46px; border: 1px #EFF0F6 solid"></div>
+    <div style="width: 114.15px; height: 21.77px; left: 24.10px; top: 53.06px; position: absolute; color: #6F6C90; font-size: 20px; font-family: DM Sans; font-weight: 400; line-height: 20px; word-wrap: break-word">Email here...</div>
+    <div style="width: 52px; height: 27.21px; left: 0px; top: 0px; position: absolute; color: #170F49; font-size: 20px; font-family: DM Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">Email</div>
+  </div>
+  <div style="width: 325px; height: 88px; left: 660px; top: 289px; position: absolute">
+    <div style="width: 325px; height: 88px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 325px; height: 52px; left: 0px; top: 36px; position: absolute; background: white; box-shadow: 0px 2px 6px rgba(18.53, 17.57, 65.87, 0.07); border-radius: 46px; border: 1px #EFF0F6 solid"></div>
+      <div style="width: 183.91px; height: 21.77px; left: 25px; top: 49px; position: absolute; color: #6F6C90; font-size: 20px; font-family: DM Sans; font-weight: 400; line-height: 20px; word-wrap: break-word"> dd - mm - yyyy</div>
+      <div style="width: 125.56px; height: 29.93px; left: 0px; top: 0px; position: absolute; color: #170F49; font-size: 20px; font-family: DM Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">Date of Birth</div>
+    </div>
+    <div style="width: 23.31px; height: 25px; padding-left: 2.91px; padding-right: 2.91px; padding-top: 2.08px; padding-bottom: 2.08px; left: 283px; top: 49px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 17.48px; height: 20.83px; border: 1.60px #1E1E1E solid"></div>
+    </div>
+  </div>
+  <div style="width: 325px; height: 88px; left: 289px; top: 289px; position: absolute">
+    <div style="width: 325px; height: 52px; left: 0px; top: 36px; position: absolute; background: white; box-shadow: 0px 2px 6px rgba(18.53, 17.57, 65.87, 0.07); border-radius: 46px; border: 1px #EFF0F6 solid"></div>
+    <div style="width: 115.42px; height: 29.93px; left: 22.64px; top: 49.46px; position: absolute; color: #6F6C90; font-size: 20px; font-family: DM Sans; font-weight: 400; line-height: 20px; word-wrap: break-word">Name here...</div>
+    <div style="width: 235.91px; height: 29.93px; left: 0px; top: 0px; position: absolute; color: #170F49; font-size: 20px; font-family: DM Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">Full Name</div>
+  </div>
+  <div style="width: 691px; height: 0px; left: 289px; top: 261px; position: absolute; border: 1px #D9DBE9 solid"></div>
+  <div style="width: 289px; height: 47px; left: 289px; top: 210px; position: absolute; color: #170F49; font-size: 32px; font-family: DM Sans; font-weight: 700; line-height: 35px; word-wrap: break-word">User Registration</div>
+</div>
+  </body>
+</html>
